@@ -10,8 +10,6 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
-
-    // 👇 Add this line to ignore unused import errors
     "noUnusedLocals": false,
     "jsx": "react-jsx"
   },
