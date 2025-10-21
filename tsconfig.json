@@ -11,6 +11,8 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": false,
+
+    // 👇 This is the most important line
     "jsx": "react-jsx"
   },
   "include": ["src"]
