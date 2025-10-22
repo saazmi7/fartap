@@ -1,1 +1,15 @@
-{}
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Fartap",
+    "iconUrl": "https://fartap-seven.vercel.app/icon.png",
+    "homeUrl": "https://fartap-seven.vercel.app",
+    "imageUrl": "https://fartap-seven.vercel.app/banner.png",
+    "splashImageUrl": "https://fartap-seven.vercel.app/icon.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "Tap to earn tokens!",
+    "description": "A fun mini game to earn points by tapping fast",
+    "primaryCategory": "games",
+    "tags": ["game", "tap", "fun", "farcaster"]
+  }
+}
